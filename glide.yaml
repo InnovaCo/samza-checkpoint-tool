@@ -1,0 +1,4 @@
+package: github.com/InnovaCo/samza-checkpoint-cli
+import:
+  - package: github.com/Shopify/sarama
+  - package: github.com/stretchr/testify/assert

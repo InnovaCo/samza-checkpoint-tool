@@ -1,0 +1,28 @@
+hash: e3e47e117897c5855fc2cf1cda9457018b43fa4bb0b4edf11c15af338cc2d509
+updated: 2016-11-20T15:11:48.536349605+01:00
+imports:
+- name: github.com/davecgh/go-spew
+  version: 6d212800a42e8ab5c146b8ace3490ee17e5225f9
+  subpackages:
+  - spew
+- name: github.com/eapache/go-resiliency
+  version: b86b1ec0dd4209a588dc1285cdd471e73525c0b3
+  subpackages:
+  - breaker
+- name: github.com/eapache/go-xerial-snappy
+  version: bb955e01b9346ac19dc29eb16586c90ded99a98c
+- name: github.com/eapache/queue
+  version: 44cc805cf13205b55f69e14bcb69867d1ae92f98
+- name: github.com/golang/snappy
+  version: d9eb7a3d35ec988b8585d4a0068e462c27d28380
+- name: github.com/klauspost/crc32
+  version: 19b0b332c9e4516a6370a0456e6182c3b5036720
+- name: github.com/rcrowley/go-metrics
+  version: b71dba47c7bf0374dfe3b67da7b5b702fa160a15
+- name: github.com/Shopify/sarama
+  version: 482c471fbf73dc2ac66945187f811581f008c24a
+- name: github.com/stretchr/testify
+  version: d77da356e56a7428ad25149ca77381849a6a5232
+  subpackages:
+  - assert
+devImports: []
